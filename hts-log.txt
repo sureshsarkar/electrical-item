@@ -1,0 +1,27 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 30 Apr 2024 14:16:14 at https://electema.tokotema.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://electema.tokotema.com/ -%L https://electema.tokotema.com/ -O1 "C:\Users\HPR TECHCENTRICA PVT\Downloads\Electronic-site" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:16:14	Error: 	Could not include URL list: https://electema.tokotema.com/
+14:16:49	Error: 	"Method Not Allowed" (405) at link https://electema.tokotema.com/xmlrpc.php (from https://electema.tokotema.com/)
+14:17:33	Warning: 	Moved Permanently for https://electema.tokotema.com/?p=169
+14:17:33	Warning: 	File has moved from https://electema.tokotema.com/?p=169 to https://electema.tokotema.com/about-us/
+14:17:34	Warning: 	Moved Permanently for https://electema.tokotema.com/?p=207
+14:17:34	Warning: 	File has moved from https://electema.tokotema.com/?p=207 to https://electema.tokotema.com/services/
+14:17:35	Warning: 	Moved Permanently for https://electema.tokotema.com/?p=240
+14:17:35	Warning: 	File has moved from https://electema.tokotema.com/?p=240 to https://electema.tokotema.com/service-details/
+14:17:36	Warning: 	Moved Permanently for https://electema.tokotema.com/?p=294
+14:17:36	Warning: 	File has moved from https://electema.tokotema.com/?p=294 to https://electema.tokotema.com/projects/
+14:17:37	Warning: 	Moved Permanently for https://electema.tokotema.com/?p=334
+14:17:37	Warning: 	File has moved from https://electema.tokotema.com/?p=334 to https://electema.tokotema.com/team/
+14:17:38	Warning: 	Moved Permanently for https://electema.tokotema.com/?p=360
+14:17:38	Warning: 	File has moved from https://electema.tokotema.com/?p=360 to https://electema.tokotema.com/pricing/
+14:17:38	Warning: 	Moved Permanently for https://electema.tokotema.com/?p=377
+14:17:38	Warning: 	File has moved from https://electema.tokotema.com/?p=377 to https://electema.tokotema.com/contact-us/
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 25 seconds : 169 links scanned, 160 files written (18600686 bytes overall) [12752735 bytes received at 150032 bytes/sec], 7577923 bytes transferred using HTTP compression in 89 files, ratio 21%, 8.8 requests per connection
+(2 errors, 14 warnings, 0 messages)
